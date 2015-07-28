@@ -73,7 +73,7 @@ import com.challenge.utils.AudioSource
 
 object Model2 extends App {	
 	
-  val conf = new SparkConf()
+  val conf = new SparkConf() 
 		.setAppName("Playax - Challenge")
 		.setMaster("local[4]")      
 
