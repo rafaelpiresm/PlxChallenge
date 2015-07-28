@@ -36,7 +36,7 @@ Computados os resultados dos erros, tivemos os seguintes valores:
 Para 4 clusters, o WSSE foi de 1024
 Para 6 clusters, o WSSE foi de  759
 Para 8 clusters, o WSSE foi de  602.
-Com isso entendemos, que 8 é um bom número de clusters. 
+Com isso, entendemos que 8 é um bom número de clusters. 
 Já que o WSSE ainda é alto e está longe de ser aceitável (quanto menor, melhor), 
 decidimos assumir 8 clusters apenas, levando em consideração uma maior 
 capacidade de generalização do modelo, haja vista o risco crescente de 
