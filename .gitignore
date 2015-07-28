@@ -1,3 +1,4 @@
 target/
 data/
-*.csv
+detections.csv
+detections-redux.csv
