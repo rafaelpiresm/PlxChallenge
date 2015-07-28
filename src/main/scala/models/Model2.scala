@@ -55,6 +55,9 @@ Melhorias
 Tentar encontrar esses "gaps" de forma mais inteligente, usando o timestamp 
 fornecido talvez apresente resultados melhores, já que os "0" não estarão sempre 
 ao final do vetor, mas sim parecerão intercalados pelo data set.
+
+Obs.: WSSE: Within-cluster sum squared error, e é uma medida que pode ser consi-
+derada no entendimento da assertividade do clustering.
 */
 
 import com.challenge.utils.DateOperations
