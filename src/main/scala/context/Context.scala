@@ -13,7 +13,7 @@ object Context {
 	def getData(path: String) : RDD[String] = {
 
 		val conf = new SparkConf()
-			.setAppName("Playax - Challenge")
+			.setAppName("Plx - Challenge")
 			.setMaster("local[4]")
 
 	  val sc = new SparkContext(conf)
